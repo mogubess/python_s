@@ -1,1 +1,7 @@
 *.png
+*.log
+*.code-workspace
+__pycache__/
+.vscode/
+*.zip
+
